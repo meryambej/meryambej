@@ -1,60 +1,70 @@
-![Header](https://capsule-render.vercel.app/api?type=shark&color=000000&height=200&section=header&text=Meryam%20Bejaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=20&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20Fullstack%20Developer&descAlign=50&descAlignY=40&descSize=16&descColor=FFFFFF)
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:2563eb&height=220&section=header&text=Meryam%20Bejaoui&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20Linux%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn)
 
-# 👋🏻 Hello, I'm Meryam 🌍 Currently in Paris , 🇫🇷
-☁️ Final-year IT Architecture & Cloud Computing Engineering Student | 💻Fullstack Developer 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%24+ansible-playbook+site.yml;%24+terraform+apply+-auto-approve;%24+docker+compose+up+-d;%24+kubectl+get+pods&center=true&vCenter=true&font=Fira+Code&size=18&color=22C55E&width=520&height=40&duration=3000&pause=1000)](https://github.com/meryambej)
 
-# ⚙️ Tech Stack & Tools
+<img src="images/terminal.svg" width="820" alt="Animated terminal: neofetch shows Meryam, IT Architecture and Cloud Computing Engineer, focused on DevOps, Linux and Cloud, open to relocation in France">
 
-## 🧰 Cloud & DevOps
-![Linux](https://img.shields.io/badge/Linux-CLI-brightgreen)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5)
-![Azure](https://img.shields.io/badge/Azure-Cloud-007FFF)
-![OpenStack](https://img.shields.io/badge/OpenStack-Cloud-E03238)
-![KVM](https://img.shields.io/badge/KVM-Virtualization-purple)
+![Location](https://img.shields.io/badge/Based_in-France-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-DevOps_·_Linux_·_Cloud-2563eb?style=for-the-badge&logo=linux&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to-Relocation-22c55e?style=for-the-badge)
 
-## 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle-DB-red)
-![MariaDB](https://img.shields.io/badge/MariaDB-Relational-003545)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
+</div>
 
-## 🖥️ Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F)
-![.NET](https://img.shields.io/badge/.NET-Platform-512BD4)
-![C#](https://img.shields.io/badge/C%23-Programming-239120)
-![Java](https://img.shields.io/badge/Java-Programming-007396)
-![Python](https://img.shields.io/badge/Python-Code-3776AB)
+<!-- Add your links here, then uncomment:
+<div align="center">
+🌐 Portfolio: https://your-portfolio-url · 💼 LinkedIn: https://www.linkedin.com/in/your-handle
+</div>
+-->
 
-## 🌐 Frontend & Web
-![Angular](https://img.shields.io/badge/Angular-Framework-DD0031)
-![JavaScript](https://img.shields.io/badge/JavaScript-Client--Side-F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-StronglyTyped-3178C6)
-![HTML](https://img.shields.io/badge/HTML-Markup-E34F26)
-![CSS](https://img.shields.io/badge/CSS-Styling-1572B6)
+## `$ ls ~/stack`
 
-## 🧪 Tools & Collaboration
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37)
-![Swagger](https://img.shields.io/badge/Swagger-API_Doc-85EA2D)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717)
-![UML](https://img.shields.io/badge/UML-Modeling-000000)
+### ☁️ cloud-devops/
+![Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,ansible,terraform,docker,kubernetes,azure,aws,openstack,grafana,prometheus&perline=13)
 
-## 🌟 GitHub Stats 
-### ✅ My contribution Graph : 
-![Meryam's GitHub Activity](https://ghchart.rshah.org/meryambej)
-### 🏆 Other Info :
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-Linux-262626?style=flat-square&logo=almalinux&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-Virtualization-purple?style=flat-square)
+
+### 🖥️ backend/
+![Skills](https://skillicons.dev/icons?i=py,java,cs,dotnet,spring,c&perline=6)
+
+### 🌐 frontend/
+![Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css&perline=6)
+
+### 🗄️ databases/
+![Skills](https://skillicons.dev/icons?i=mysql&perline=1)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-Relational-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🧪 tools/
+![Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman,figma&perline=5)
+
+![Swagger](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![UML](https://img.shields.io/badge/UML-Modeling-000000?style=flat-square)
+
+## `$ ./deploy.sh`
+
+A Flask app deployed end to end by a CI/CD pipeline I built: every push builds a Docker image, publishes it, and redeploys the container on AWS EC2 through a self-hosted GitHub Actions runner.
+
+```mermaid
+flowchart LR
+    A([git push]) --> B[GitHub Actions<br/>self-hosted runner]
+    B --> C[docker build]
+    C --> D[(Docker Hub)]
+    D --> E[AWS EC2<br/>stop old, run new]
+    E --> F([live])
+```
+
+<!-- Link the repo: [View the project](https://github.com/meryambej/your-repo) -->
+
+## `$ cat stats`
+
 ![My GitHub Statistics](images/userstats.svg)
 
+<div align="center">
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2563eb&height=100&section=footer)
 
-
-
-
-
-
-
-
-
+</div>
